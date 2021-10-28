@@ -1,11 +1,6 @@
- table,td, th{
-    border: 2px solid black;
-    text-align: left;
-    padding-right: 35px;
-    padding-bottom: 10px;
 
- }
- 
+
+ /* Image but with center and tags under to make it into the middle*/
  img.center{
 	 display: block;
   margin-left: auto;
